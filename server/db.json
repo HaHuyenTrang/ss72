@@ -1,0 +1,23 @@
+{
+  "users": [],
+  "list": [
+    {
+      "id": 1,
+      "name": "kiến thức quan trọng về ReactJS",
+      "image": "https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png",
+      "category": "Lập trình web",
+      "date": "15/02/2024",
+      "status": "đã xuất bản",
+      "function": ""
+    },
+    {
+      "id": 2,
+      "name": "ngôn ngữ lập trình Java",
+      "image": "https://tuyendung.kfcvietnam.com.vn/Data/Sites/1/News/276/lap-trinh-java.jpg",
+      "category": "Lập trình web",
+      "date": "15/02/2024",
+      "status": "ngừng xuất bản",
+      "function": ""
+    }
+  ]
+}
